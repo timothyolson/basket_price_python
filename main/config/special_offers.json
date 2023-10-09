@@ -1,0 +1,10 @@
+{
+    "offers": {
+      "flat_discount": {
+        "items": [["apples", 0.10]]
+      },
+      "bogo_discount": {
+        "items": [["soup", "bread", 0.50, 2, 1]]
+      }
+    }
+  }
